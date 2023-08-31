@@ -29,4 +29,4 @@ To make the script run on a set basis (such as when logging in):
 2. Click on Create Task
 3. On the General tab, add a name of your choice
 4. On the Triggers tab, click on New... and configure task to run on your liking
-5. On the Actions tab, click on New... then Browse... find the following exe under 'C:\Users\USERNAME\AppData\Local\Microsoft\WindowsApps\pythonw3.11.exe' (REPLACE THE USERNAME) and select it. The exe name and location may vary depending on the version and installation location. In the Add Arguements box put weather.pyw and in the Start In box put the folder path containing the script.
+5. On the Actions tab, click on New... then Browse... find the following exe under `C:\Users\USERNAME\AppData\Local\Microsoft\WindowsApps\pythonw3.11.exe` (REPLACE THE USERNAME) and select it. The exe name and location may vary depending on the version and installation location. In the Add Arguements box put weather.pyw and in the Start In box put the folder path containing the script.
