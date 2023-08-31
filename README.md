@@ -1,6 +1,8 @@
 # Weather Windows Notifier
 
-A python script which generates a weather report notification on windows. You are able to set this on task scheduler to fit your preferred time/event for the notification to generate
+A python script which generates a weather report notification on windows. You are able to set this on task scheduler to fit your preferred time/event for the notification to generate.
+
+![Alt text](image.png)
 
 ## Requirements
 
