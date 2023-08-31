@@ -27,7 +27,6 @@ minTemp = response["daily"]["temperature_2m_min"][0]
 
 toast = Notification(app_id="Weather",
                      title=f"Temperature: {currentTemp}°C\n{weatherCodeIDs[weatherCode]}",
-                     msg=f"Min/Max Temp: {minTemp}/{maxTemp}°C",
-                     duration="long")
+                     msg=f"Min/Max Temp: {minTemp}/{maxTemp}°C")
 
 toast.show()
