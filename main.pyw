@@ -2,10 +2,9 @@ import requests
 from winotify import Notification
 
 #Change these variables to match your location
-latitude = 51.5233
-longitude = -0.0389
+latitude = 
+longitude = 
 
-# Put this in a separate file
 weatherCodeIDs = {
     0:"Clear sky ☀️",
     1:"Clear ☀️", 2:"Partly cloudy ⛅", 3:"Overcast ☁️",
